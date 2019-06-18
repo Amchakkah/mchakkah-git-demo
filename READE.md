@@ -1,1 +1,12 @@
-# Welcome to Valaxy Git Demo
+
+welcome to Valaxy Git DeM
+things need repOS
+
+
+
+
+-LICence 
+-gitignore file
+-Finally repo name
+
+
